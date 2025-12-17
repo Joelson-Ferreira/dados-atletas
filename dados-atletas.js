@@ -6,8 +6,7 @@ class Atleta{
         this.altura = altura;
         this.notas = notas;
     }
-    calculaCategoria(){
-        
+    calculaCategoria(){  
         if(this.idade >= 9 && this.idade <= 11){
             this.categoria = 'Infantil'
         }else if(this.idade >= 12 && this.idade <= 13){
@@ -65,7 +64,6 @@ class Atleta{
 }
 
 function infoAtletas(atleta){
-
     console.log(`
     Nome: ${atleta.nome}
     Idade: ${atleta.idade}
@@ -76,7 +74,6 @@ function infoAtletas(atleta){
     IMC: ${atleta.obtemIMC()}
     Média válida: ${atleta.obtemMediaValida()}
     `);
-
 }
 
 // Declara o usuário "atleta"
