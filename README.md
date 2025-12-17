@@ -1,5 +1,5 @@
 # DEVstart - Trilha 1. Lógica de Programação
-Projeto final referente ao módulo "Lógica de programação" com Java Script do programa DEVstart do SENAI.
+Projeto referente ao módulo "Lógica de programação" com Java Script do programa DEVstart do SENAI.
 
 **rojeto de certificação 2 – Dados dos atletas**<br>
 
